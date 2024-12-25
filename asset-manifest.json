@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ncreepto/static/css/main.adc5a8b4.css",
+    "main.js": "/ncreepto/static/js/main.b05c75c8.js",
+    "index.html": "/ncreepto/index.html",
+    "main.adc5a8b4.css.map": "/ncreepto/static/css/main.adc5a8b4.css.map",
+    "main.b05c75c8.js.map": "/ncreepto/static/js/main.b05c75c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc5a8b4.css",
+    "static/js/main.b05c75c8.js"
+  ]
+}
